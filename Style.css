@@ -28,7 +28,7 @@ body{
 @media (max-width:780px){
 
     body{
-        background-image:url('images/bg-1.jpg');
+        background-image:url('images/Mobile.png');
         background-attachment: fixed;
         background-size: cover;
     }
@@ -42,7 +42,7 @@ body{
 }
 @media (min-width:500px){
     #banner{
-        background-image:url('images/IT\'S.jpg');
+        background-image:url('images/Desktop.png');
         background-attachment: fixed;
         background-size: cover;
     }
